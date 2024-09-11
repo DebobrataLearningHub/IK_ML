@@ -1,1 +1,1 @@
-# This is for Interview Kickstart Machine Learning Repo
+# This is for Interview Kickstart Machine Learning Repository
